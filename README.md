@@ -13,8 +13,8 @@ For the server side, visit [IoT-Socket-Server](https://github.com/PSR0001/Roboti
 
 <br>
 
-
-
+## **Circuit Diagram**
+<img  alt="Circuit Diagram"  src="./images/RGB.jpeg" />
 
 
 
