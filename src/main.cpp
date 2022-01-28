@@ -17,8 +17,8 @@
 #define G D5
 #define B D7
 #define BAUD_RATE 115200
-#define SSID "vivo 1816"
-#define PASSWORD "12345PSR"
+#define SSID "Your SSID"
+#define PASSWORD "Your PASSWORD"
 #define ADDRESS "test-code-0001.herokuapp.com"
 #define PORT 80
 #define URL "/socket.io/?EIO=4"
